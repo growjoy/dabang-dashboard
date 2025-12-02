@@ -97,12 +97,6 @@ Dashboard ini sangat mudah dikustomisasi:
 
 ---
 
-## 📸 Screenshots
 
-![Dashboard Preview](./screenshot.png)
-
-> *Tambahkan screenshot dashboard Anda di sini*
-
----
 
 
