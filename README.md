@@ -78,27 +78,5 @@ npm run preview
 
 
 
-## 🎨 Customization
-
-Dashboard ini sangat mudah dikustomisasi:
-
-- **Colors**: Edit variabel warna di `src/assets/styles/variables.css`
-- **Components**: Semua komponen tersimpan di `src/components/`
-- **Layout**: Modifikasi sidebar dan topbar di `src/components/layout/`
-
----
-
-## 🛠 Tech Stack
-
-- [Vue.js 3](https://vuejs.org/) - Progressive JavaScript Framework
-- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
-- CSS3 - Modern Styling
-- JavaScript ES6+ - Modern JavaScript
-
----
-
-
-
-
 
 
