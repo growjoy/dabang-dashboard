@@ -1,9 +1,26 @@
-# Dabang - Sales Dashboard Design
+# 📊 Dabang Dashboard – Vue.js
 
-### Quick Start
+Dabang Dashboard adalah sebuah UI Dashboard modern yang dibangun menggunakan Vue.js 3 + Vite.  
+Project ini merupakan hasil slicing dari desain dashboard profesional dengan tampilan yang bersih, minimalis, dan responsif.
 
-- Step - 1: Clone the repository: <code>git clone https://github.com/themewagon/dabang.git</code>
-- Step - 2: Install the required Node.js packages: <code>pnpm install</code>
-- Step - 3: Run the application: <code>pnpm dev</code>
+## 🚀 Fitur Utama
+- Dibangun menggunakan Vue.js 3 (Composition API)
+- Development cepat dengan Vite
+- Desain UI modern, clean, dan mudah dikustomisasi
+- Layout lengkap: Sidebar + Topbar
+- Responsive full (Mobile – Desktop)
+- Komponen card untuk statistik seperti:
+  - Today's Sales
+  - Visitor Insights
+  - Revenue Overview
+  - Customer Rating
+  - Service Level
+  - Sales Mapping
+  - Product Performance
+- Siap dikembangkan menjadi dashboard real API
 
-### Live Link: https://themewagon.github.io/dabang
+## 🛠 Instalasi & Menjalankan Project
+
+### 1. Install dependencies
+
+### 2. Jalankan development server
