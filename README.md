@@ -60,19 +60,14 @@ Pastikan Anda sudah menginstall:
 
 ---
 
-## 📦 Build untuk Production
-```bash
-npm run build
-```
 
-File production akan tersimpan di folder `dist/`
+
 
 ### Preview production build
 ```bash
 npm run preview
 ```
 
----
 
 
 
