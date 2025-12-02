@@ -21,6 +21,12 @@ Project ini merupakan hasil slicing dari desain dashboard profesional dengan tam
 
 ## 🛠 Instalasi & Menjalankan Project
 
-### 1. Install dependencies
 
-### 2. Jalankan development server
+### 1. Install dependencies
+```bash
+npm install
+
+npm run dev
+
+
+
