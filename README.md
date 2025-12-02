@@ -39,7 +39,7 @@ Pastikan Anda sudah menginstall:
 
 1. **Clone repository**
 ```bash
-   git clone https://github.com/username/dabang-dashboard.git
+   git clone https://github.com/growjoy/dabang-dashboard.git
    cd dabang-dashboard
 ```
 
@@ -96,6 +96,7 @@ Dashboard ini sangat mudah dikustomisasi:
 - JavaScript ES6+ - Modern JavaScript
 
 ---
+
 
 
 
