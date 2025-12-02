@@ -58,15 +58,9 @@ Pastikan Anda sudah menginstall:
    http://localhost:5173
 ```
 
----
 
 
 
-
-### Preview production build
-```bash
-npm run preview
-```
 
 
 
