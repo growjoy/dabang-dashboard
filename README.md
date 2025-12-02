@@ -105,14 +105,4 @@ Dashboard ini sangat mudah dikustomisasi:
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Integrasi dengan REST API
-- [ ] Dark Mode
-- [ ] Multi-language support
-- [ ] Advanced Charts (Chart.js/ApexCharts)
-- [ ] User Authentication
-- [ ] Real-time updates
-
----
 
